@@ -1,0 +1,4 @@
+until version 16.8, most React components were class based components. I learned and primarily used React class components when I first started with React. Class components were great because they were the only way to use state. With hooks, you can use now use state in functional components. Because functional components are cleaner to write and easier to read
+FUNCTIONAL COMPO
+(To make sure we’re on the same page, a functional component is just a function that returns JSX. Functional components can render differently based on the props you pass in.
+You’ll need to use hooks to do anything interesting with functional components. Hooks are nothing more than functions that are handled by React behind the scenes. They can handle managing state, listening for updates to state, and you can build custom ones. They tend to have a naming convention use. Using hooks provides several advantages: Simplified state, simplified life-cycle control, and ease of customization.)
